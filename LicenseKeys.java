@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class LicenseKeys {
 
-	public static void main(String[] args) {
+	public static string main(String[] args) {
 		Scanner scanner = new Scanner(System. in); 
 		String string = scanner.nextLine();
 		int integer = scanner.nextInt();
